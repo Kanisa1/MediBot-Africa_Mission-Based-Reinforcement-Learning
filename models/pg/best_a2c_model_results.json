@@ -1,0 +1,11 @@
+[
+    {
+        "config": 1,
+        "params": {
+            "learning_rate": 0.0007,
+            "n_steps": 5
+        },
+        "mean_reward": 737.0,
+        "std_reward": 630.7622372970659
+    }
+]

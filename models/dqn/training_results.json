@@ -1,0 +1,102 @@
+[
+    {
+        "config": 1,
+        "params": {
+            "learning_rate": 0.001,
+            "buffer_size": 10000,
+            "exploration_fraction": 0.1
+        },
+        "mean_reward": -1436.5,
+        "std_reward": 85.68693015857203
+    },
+    {
+        "config": 2,
+        "params": {
+            "learning_rate": 0.0005,
+            "buffer_size": 50000,
+            "exploration_fraction": 0.15
+        },
+        "mean_reward": 728.0,
+        "std_reward": 626.9098818809606
+    },
+    {
+        "config": 3,
+        "params": {
+            "learning_rate": 0.0001,
+            "buffer_size": 100000,
+            "exploration_fraction": 0.2
+        },
+        "mean_reward": 983.0,
+        "std_reward": 936.3017675941876
+    },
+    {
+        "config": 4,
+        "params": {
+            "learning_rate": 0.001,
+            "buffer_size": 50000,
+            "exploration_fraction": 0.3
+        },
+        "mean_reward": 941.0,
+        "std_reward": 783.7914263373898
+    },
+    {
+        "config": 5,
+        "params": {
+            "learning_rate": 0.0005,
+            "buffer_size": 20000,
+            "exploration_fraction": 0.25
+        },
+        "mean_reward": 857.0,
+        "std_reward": 654.2484237657742
+    },
+    {
+        "config": 6,
+        "params": {
+            "learning_rate": 0.0002,
+            "buffer_size": 75000,
+            "exploration_fraction": 0.1
+        },
+        "mean_reward": -58.0,
+        "std_reward": 915.2136362620479
+    },
+    {
+        "config": 7,
+        "params": {
+            "learning_rate": 0.001,
+            "buffer_size": 30000,
+            "exploration_fraction": 0.2
+        },
+        "mean_reward": 749.0,
+        "std_reward": 609.3841153164398
+    },
+    {
+        "config": 8,
+        "params": {
+            "learning_rate": 0.0007,
+            "buffer_size": 40000,
+            "exploration_fraction": 0.15
+        },
+        "mean_reward": 506.0,
+        "std_reward": 239.04811231214524
+    },
+    {
+        "config": 9,
+        "params": {
+            "learning_rate": 0.0003,
+            "buffer_size": 60000,
+            "exploration_fraction": 0.35
+        },
+        "mean_reward": 782.0,
+        "std_reward": 623.0056179521979
+    },
+    {
+        "config": 10,
+        "params": {
+            "learning_rate": 0.0001,
+            "buffer_size": 80000,
+            "exploration_fraction": 0.25
+        },
+        "mean_reward": 765.5,
+        "std_reward": 776.7703972217273
+    }
+]
