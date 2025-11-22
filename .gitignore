@@ -1,0 +1,21 @@
+# Ignore Python virtual environments and site-packages
+/malaria_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# pipenv / poetry
+Pipfile.lock
