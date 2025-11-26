@@ -2,19 +2,19 @@
 MEDIBOT ALL PHASES DEMO - RESULTS SUMMARY
 ======================================================================
 
-Date & Time: 2025-11-25 23:52:03
+Date & Time: 2025-11-26 10:59:17
 
 PHASE 1 (Easy)
   Reward: 13101.00
-  Video: phase1_20251125_235025.mp4
+  Video: phase1_20251126_105743.mp4
 
 PHASE 2 (Medium)
-  Reward: -180.02
-  Video: phase2_20251125_235058.mp4
+  Reward: 10851.27
+  Video: phase2_20251126_105817.mp4
 
 PHASE 3 (Hard)
-  Reward: -170.83
-  Video: phase3_20251125_235133.mp4
+  Reward: -169.84
+  Video: phase3_20251126_105850.mp4
 
 ======================================================================
 BEST PERFORMING PHASE: 1 with reward 13101.00
